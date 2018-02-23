@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 var bot = new Discord.Client();
 
 bot.on("ready", function() {
-    bot.user.setGame("Bot officiel Discord, %help");
+    bot.user.setGame("Bot by Galack, %help");
     console.log("ItachiBot à bien été connecter");
 });
 
