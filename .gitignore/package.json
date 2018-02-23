@@ -1,7 +1,7 @@
 {
   "name": "itachibot",
   "version": "1.0.0",
-  "description": "Bot de grande qualité offert par discord",
+  "description": "Bot by Galack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
